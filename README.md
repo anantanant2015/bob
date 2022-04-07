@@ -23,8 +23,7 @@ To get this project up and running, use `mix compile` followed by `iex -S mix` t
 as shown in examples below.
 
 ```
-Example
-```
+Example:
 
 iex(1)> Bob.message()
 "Whatever."
@@ -32,7 +31,6 @@ iex(2)> Bob.message("")
 "Fine. Be that way!"
 iex(3)> Bob.message("How are you?")
 
-```
 
 ```
 
